@@ -12,7 +12,7 @@ Objectives:
 Specifications:
 - Programming Language: Python
 - Development Tools: VS Code / PyCharm
-- Libraries: Matplotlib (for visualization), NetworkX (for graph representation, if needed)
+- Libraries: Matplotlib (for visualization), NetworkX (for graph representation)
 - Algorithms: BFS, DFS, and Bidirectional Search
 - Metrics: Number of nodes explored, execution time, memory usage 
 
